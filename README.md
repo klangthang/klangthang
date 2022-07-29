@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning CyberSecurity
+🌱 I’m currently self-learning Cybersecurity
+📫 How to reach me: https://www.instagram.com/nudelneed/
+
 <!--
 **klangthang/klangthang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
