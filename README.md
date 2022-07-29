@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-*🌱 I’m currently self-learning Cybersecurity
-*⚡ Fun fact: I love Webtoon
+- 🌱 I’m currently self-learning Cybersecurity
+- ⚡ Fun fact: I love Webtoon
+
+
 <!--
 **klangthang/klangthang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
